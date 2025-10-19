@@ -1,1 +1,1 @@
-# partiel-algo
+Partiel algorithme avancée
